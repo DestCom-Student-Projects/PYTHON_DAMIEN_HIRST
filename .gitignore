@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.eps
+converter.py
+gentillesse.py
+.venv
+.DS_Store
